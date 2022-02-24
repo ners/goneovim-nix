@@ -1,4 +1,4 @@
-A Nix flake for [ goneovim ] (https://github.com/akiyosi/goneovim)
+A Nix flake for [goneovim](https://github.com/akiyosi/goneovim)
 
 To build, issue `nix build github:ners/goneovim-nix`
 
